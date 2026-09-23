@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,lead_time_days,reliability_score
+SUP001,Unilever BD Ltd,Bangladesh,7,92
+SUP002,Reckitt Benckiser BD,Bangladesh,10,88
+SUP003,ACI Limited,Bangladesh,5,95
+SUP004,Pran-RFL Group,Bangladesh,6,90
+SUP005,Square Pharmaceuticals,Bangladesh,8,85
+SUP006,Nestle Bangladesh,Bangladesh,12,87
+SUP007,Bashundhara Group,Bangladesh,4,93
+SUP008,Globe Traders (Import),India,21,78
+SUP009,Pacific Imports Ltd,Singapore,28,72
+SUP010,Delta Distributors,Bangladesh,9,80

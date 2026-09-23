@@ -1,0 +1,36 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price,reorder_level,min_stock_threshold,supplier_id
+PRD001,Lifebuoy Soap 100g,Personal Care,Bath Soap,18,28,200,50,SUP001
+PRD002,Dove Soap 75g,Personal Care,Bath Soap,32,50,150,30,SUP001
+PRD003,Pantene Shampoo 200ml,Personal Care,Shampoo,85,130,100,20,SUP001
+PRD004,Head & Shoulders 200ml,Personal Care,Shampoo,90,140,80,15,SUP002
+PRD005,Colgate Toothpaste 150g,Personal Care,Oral Care,45,70,180,40,SUP002
+PRD006,Sensodyne 100g,Personal Care,Oral Care,95,150,60,10,SUP002
+PRD007,Dettol Handwash 200ml,Personal Care,Handwash,55,85,120,25,SUP002
+PRD008,Savlon Antiseptic 100ml,Healthcare,Antiseptic,60,95,80,15,SUP003
+PRD009,Paracetamol 500mg (strip),Healthcare,Medicine,12,20,500,100,SUP005
+PRD010,Antacid Tablets (strip),Healthcare,Medicine,15,25,300,60,SUP005
+PRD011,Rin Detergent 500g,Home Care,Detergent,38,58,200,50,SUP001
+PRD012,Surf Excel 1kg,Home Care,Detergent,95,145,150,30,SUP001
+PRD013,Vim Dishwash Bar 200g,Home Care,Dishwash,22,35,180,40,SUP002
+PRD014,Harpic Toilet Cleaner 500ml,Home Care,Toilet Care,65,100,80,15,SUP002
+PRD015,Good Knight Mosquito Coil,Home Care,Pest Control,30,48,200,50,SUP003
+PRD016,Mortein Spray 300ml,Home Care,Pest Control,120,185,60,10,SUP002
+PRD017,Pran Mustard Oil 1L,Food & Beverage,Cooking Oil,130,175,120,25,SUP004
+PRD018,Fresh Soybean Oil 2L,Food & Beverage,Cooking Oil,195,250,100,20,SUP004
+PRD019,Bashundhara Sugar 1kg,Food & Beverage,Sugar & Salt,58,75,200,50,SUP007
+PRD020,ACI Salt 1kg,Food & Beverage,Sugar & Salt,25,38,250,60,SUP003
+PRD021,Pran Mango Juice 250ml,Food & Beverage,Beverages,18,28,300,80,SUP004
+PRD022,Cocola Noodles 75g,Food & Beverage,Instant Food,12,20,400,100,SUP010
+PRD023,Maggi Noodles 75g,Food & Beverage,Instant Food,14,22,350,80,SUP006
+PRD024,Arla Milk Powder 400g,Food & Beverage,Dairy,280,380,60,10,SUP006
+PRD025,Diploma Butter 100g,Food & Beverage,Dairy,95,135,80,15,SUP006
+PRD026,Nabisco Crackers 100g,Food & Beverage,Snacks,35,55,150,30,SUP010
+PRD027,Pringles Original 110g,Food & Beverage,Snacks,150,220,80,15,SUP009
+PRD028,Nescafe Classic 50g,Food & Beverage,Beverages,185,265,60,10,SUP006
+PRD029,Taaza Tea 200g,Food & Beverage,Beverages,80,120,100,20,SUP008
+PRD030,Brooke Bond Red Label 250g,Food & Beverage,Beverages,95,140,80,15,SUP008
+PRD031,Premium Candle Set,Lifestyle,Home Decor,180,280,30,5,SUP009
+PRD032,Ceramic Mug Set,Lifestyle,Home Decor,220,350,20,5,SUP009
+PRD033,Aromatherapy Diffuser,Lifestyle,Wellness,850,1350,10,2,SUP009
+PRD034,Herbal Bath Salts 500g,Personal Care,Bath,350,550,15,3,SUP008
+PRD035,Imported Olive Oil 500ml,Food & Beverage,Cooking Oil,480,750,20,3,SUP009

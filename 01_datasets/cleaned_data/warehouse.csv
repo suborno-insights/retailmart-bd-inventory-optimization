@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,city,region,storage_capacity_sqft
+WH001,Dhaka Central,Dhaka,North,50000
+WH002,Chittagong Port,Chittagong,South,35000
+WH003,Sylhet Hub,Sylhet,East,20000
